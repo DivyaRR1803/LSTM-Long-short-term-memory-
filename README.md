@@ -9,6 +9,9 @@ It presents a comprehensive approach to sentiment analysis using Long Short-Term
 The primary objective of this is to guide users through the process of developing an LSTM-based sentiment analysis model. Specific objectives include:
 
 1.Data Preprocessing: Demonstrate techniques for cleaning and preparing text data for modeling.
+
 2.Embedding Layer: Explain the role of embedding layers in converting text data into numerical form suitable for input to neural networks.
+
 3.LSTM Implementation: Provide a step-by-step guide to building and training an LSTM model for sentiment analysis.
+
 4.Evaluation: Illustrate methods for evaluating the performance of the sentiment analysis model
