@@ -1,9 +1,11 @@
 # LSTM-Long-short-term-memory-
 
-Abstract
+# Abstract
+
 It presents a comprehensive approach to sentiment analysis using Long Short-Term Memory (LSTM) networks. Sentiment analysis, a subfield of natural language processing (NLP), involves determining the sentiment expressed in a piece of text. This notebook demonstrates the complete workflow of building a sentiment analysis model, starting from data preprocessing, through the use of embedding layers, to the implementation of an LSTM-based recurrent neural network. The goal is to leverage the capabilities of LSTM networks in capturing long-term dependencies in text data to accurately classify the sentiment of textual inputs.
 
-Objective
+# Objective
+
 The primary objective of this is to guide users through the process of developing an LSTM-based sentiment analysis model. Specific objectives include:
 
 1.Data Preprocessing: Demonstrate techniques for cleaning and preparing text data for modeling.
